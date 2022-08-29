@@ -1,2 +1,3 @@
-# dice-game
-#Roll the dice to get to 100 points
+Dice Game
+
+Roll the dice to get to 100 points
